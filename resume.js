@@ -45,7 +45,7 @@ function run_command(){
         element = document.getElementById('error'); 
 
       if(input == 'download'){
-        window.open('resume__jankit311.pdf', '_blank');
+        window.open('resume_jankit311.pdf', '_blank');
       }
 
       else if(input == 'clear'){
